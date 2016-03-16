@@ -1,0 +1,8 @@
+/build/
+/target/
+/deploy.sh
+/pom.xml
+/.gradle/
+/.settings/
+/.classpath
+/.project
